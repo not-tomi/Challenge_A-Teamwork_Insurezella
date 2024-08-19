@@ -1,5 +1,5 @@
 # Challenge_A-Teamwork_Insurezella
-# Technical Test: Landing Page in WordPress
+# Landing Page in WordPress
 
 ## Description
 
