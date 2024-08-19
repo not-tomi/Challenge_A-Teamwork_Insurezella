@@ -20,7 +20,7 @@ I chose WordPress for this technical test due to its high prevalence in web deve
 - **Carousels**: Implemented to display content interactively.
 - **Responsive Containers**: Cards and page elements adjust according to screen size.
 
-## -Link: silent-binoculars.localsite.io
-# -Username: safari
-# -Password: nonchalant
-https://silent-binoculars.localsite.io/
+## -Link: https://silent-binoculars.localsite.io/
+## -Username: safari
+## -Password: nonchalant
+
