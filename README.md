@@ -12,6 +12,11 @@ This repository contains the technical test for a position requiring knowledge o
 - **HTML/CSS/JS**: Used for additional customization and adjustments according to the design requirements.
 - **PHP**: The primary development language for WordPress. Approximately 80% of web systems rely on PHP at some point, highlighting its relevance and effectiveness in web development.
 
+## Challenges and Solutions
+**Challenge:** Limitations in WordPress
+**Problem:** Some required functionalities and styles could not be easily achieved with WordPress and Elementor.
+Solution: I used pure HTML and CSS to overcome these limitations and gain more precise control over the design.
+
 
 ## Features
 
